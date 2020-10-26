@@ -15,6 +15,7 @@ A new release of the documentation is produced with every change of the major or
 
 **Current Documentation Releases**
 
+- [v1.1](https://wkande.github.io/notes-docs-v1.1/)
 - v1.0
 
 **Notes Backend Releases**
